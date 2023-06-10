@@ -6,8 +6,11 @@ Template for a simple Express application
 
 ```
 git clone https://github.com/thaivu93/Basic-express-template.git
+```
+```
 cd Basic-express-template
-
+```
+```
 npm install
 ```
 
